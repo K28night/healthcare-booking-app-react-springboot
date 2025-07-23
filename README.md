@@ -1,13 +1,13 @@
 # healthcare-booking-app-react-springboot
 
 
-This project is a full-stack **Appointment Booking System** built using **React.js** for the frontend and **Spring Boot** for the backend. It enables users (patients) to book time slots, view appointment status, and manage schedules efficiently. Health centers can also manage available time slots and update appointment statuses.
+This project is a full-stack **Healthcare Booking System** built using **React.js** for the frontend and **Spring Boot** for the backend. It enables users (patients) to book time slots, view appointment status, and manage schedules efficiently. Health centers can also manage available time slots and update appointment statuses.
 
 ---
 
 ## Features
 
-### Health Center  (Patient)
+### Health Center 
 - View available time slots
 - Book appointments
 - View status (Pending / Booked / Confirmed)
