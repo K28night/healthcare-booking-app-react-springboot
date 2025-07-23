@@ -23,7 +23,7 @@ This project is a full-stack **Appointment Booking System** built using **React.
 |----------------|------------------|-------------|
 | React.js       | Spring Boot (Java) | MySQL       |
 | Axios (API)    | Spring Data JPA  |      HQL       |
-| TailwindCSS / CSS | Spring Security (optional) |   |
+| TailwindCSS / CSS |  |   |
 
 ---
 
