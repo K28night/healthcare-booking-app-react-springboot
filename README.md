@@ -7,16 +7,11 @@ This project is a full-stack **Appointment Booking System** built using **React.
 
 ## Features
 
-### User (Patient)
-- Register and log in
+### Health Center  (Patient)
 - View available time slots
 - Book appointments
 - View status (Pending / Booked / Confirmed)
 - Cancel appointment
-
-### Health Center / Admin
-- Add and manage available time slots
-- View appointments
 - Update appointment status (Confirmed, Pending)
 - See filtered lists by doctor or status
 
@@ -27,7 +22,7 @@ This project is a full-stack **Appointment Booking System** built using **React.
 | Frontend       | Backend         | Database   |
 |----------------|------------------|-------------|
 | React.js       | Spring Boot (Java) | MySQL       |
-| Axios (API)    | Spring Data JPA  |             |
+| Axios (API)    | Spring Data JPA  |      HQL       |
 | TailwindCSS / CSS | Spring Security (optional) |   |
 
 ---
